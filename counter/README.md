@@ -1,0 +1,2 @@
+this is counter project where i learned that hooks are used to change in ui components if we dont use hooks then our states are not changed in ui .
+so in this i use two buttons one is for add value and one is for remove value 
